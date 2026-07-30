@@ -1,5 +1,7 @@
 # PlasmaDigitalClockSameSize
-Based on the original [KDE DigitalClock applet](https://invent.kde.org/plasma/plasma-workspace/-/tree/master/applets/digital-clock), with the following differences:
+
+Currently based on the original [KDE Plasma 6.6.5 Digital Clock applet](https://invent.kde.org/plasma/plasma-workspace/-/tree/v6.6.5/applets/digital-clock), with the following differences:
+
  - Time and date is the same size
  - Default font size is smaller
 
